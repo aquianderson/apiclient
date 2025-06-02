@@ -1,0 +1,23 @@
+{
+  "name": "apiclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquianderson/apiclient.git"
+  },
+  "author": "Anderson Lemes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquianderson/apiclient/issues"
+  },
+  "homepage": "https://github.com/aquianderson/apiclient#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
